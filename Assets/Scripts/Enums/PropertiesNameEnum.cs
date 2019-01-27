@@ -1,0 +1,1 @@
+﻿public enum PropertiesName {empty, clickQ, clickW, clickE, clickR, clickT, clickY, clickB, clickO, killedEnemies}
