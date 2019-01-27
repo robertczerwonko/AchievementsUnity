@@ -35,7 +35,7 @@ creating new achievement is limited only to 3 steps. ( Creating Properties, Achi
                                                  
 4. After all of this is done, just add to game "Achievement manager"(script) and drag all of your properties and achievements to it.
 This manager is using SINGLETON so make sure it's always active. Now whenever you need to add values to properties, use this manager.
-For example when I kill one enemy i will call 
+For example when I kill one enemy this line is called
           
                 AchievementManager.instance.addValue(PropertyName.killedEnemies,1) 
                 this will add 1 value to killed enemies
