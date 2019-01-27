@@ -1,2 +1,2 @@
 # AchievementsUnity
-Simple achievement system based on 2 scriptable objects(properties and achievement)
+Simple achievement system based on 2 scriptable objects(property and achievement)
