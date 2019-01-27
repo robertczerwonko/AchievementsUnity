@@ -44,5 +44,11 @@ IN PROJECT IS EXAMPLE OF COUPLE ACHIEVEMENTS AND PROPERTIES TOGETHER WITH <br />
 GAME MANANGER WHERE I CONTROL INPUT TO ACTIVE SPECIFIC PROPERTIES 
 
 ## Example
+I've created a simple achievement that requires clicks of  "Q W E R T Y" letters, each letter 3 times <br />
+And another with killing enemies, to accomplish is need 20 kills <br />
+
+BY PRESSING BUTTON "A" ON KEYBOARD I CALL FOR A METHOD WHICH CHECKS IF ANY ACHIEVEMENT IS DONE. <br />
 ![example](Example.png)
+
+
 
