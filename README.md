@@ -1,5 +1,5 @@
 # AchievementsUnity
-Simple achievement system based on 2 scriptable objects(property and achievement)
+Simple achievement system based on 2 scriptable objects(property and achievement) <br />
 It's my first "tutorial type" repo so it might not be that great ;) 
 
 ## Table of Contents
@@ -44,5 +44,5 @@ IN PROJECT IS EXAMPLE OF COUPLE ACHIEVEMENTS AND PROPERTIES TOGETHER WITH <br />
 GAME MANANGER WHERE I CONTROL INPUT TO ACTIVE SPECIFIC PROPERTIES 
 
 ## Example
-
+![example](yaktocat.png)
 
