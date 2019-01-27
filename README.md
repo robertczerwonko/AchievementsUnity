@@ -12,7 +12,7 @@ It's my first "tutorial type" repo so it might not be that great ;)
 ## Introduction
 Achievement system to simply add any achievement you like to your Unity project. <br />
 I created this because I like to simplify things in Unity to maximum and with this system,<br />
-creating new achievement is limited only to 3 steps. In the next section I will exaplain 
+creating new achievement is limited only to 3 steps. ( Creating Properties, Achievement, Add them to manager)
 
 ## Tutorial
 1. First of all define what kind of properties your game will need i.e. "killed enemies" etc.<br />
